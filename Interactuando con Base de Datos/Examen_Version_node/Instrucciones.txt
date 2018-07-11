@@ -1,0 +1,11 @@
+﻿1. Aplica las dependencias (npm install)
+
+
+
+2. Ejecutar mongod.exe y luego correr el comando (node crea_usuario.js)  
+Se crea automáticamente el user:admin con pass:clave
+
+
+
+3. Inicia la app con (node server.js) corriendo en el puerto 3000
+
